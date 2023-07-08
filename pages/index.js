@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm JisooYAYA</p>
+        <p>This is a vercel test!</p>
 
         <p>
           (This is a sample website - you’ll be building a site like this on  Next Page.
